@@ -1,6 +1,6 @@
 # Project Title
 
-4Geeks Academy Postcard project created with html and css.
+4Geeks Academy Postcard project created with HTML5 and CSS.
 
 # What I Learned
 * Basic structure for every HTML5 website.
